@@ -1,3 +1,13 @@
+#header{
+  text-align: center;
+  font-weight: bold;
+}
+
+#footer{
+  text-align: center;
+  font-weight: bold;
+}
+
 body{
     background-color: #fefeb4;
     text-align: center;
